@@ -4,16 +4,24 @@
       "mood": "Sad",
       "tracks": [
         {
-          "name": "Uplifting Journey",
-          "media_url": "https://example.com/uplifting-journey.mp3"
+          "name": "Calm night",
+          "media_url": "src/sounds/calm-night-sad.mp3"
         },
         {
-          "name": "Healing Waters",
-          "media_url": "https://example.com/healing-waters.mp3"
+          "name": "Lost ambient",
+          "media_url": "src/sounds/lost-ambient-sad.mp3"
         },
         {
-          "name": "Rising Light",
-          "media_url": "https://example.com/rising-light.mp3"
+          "name": "Mango Sundive",
+          "media_url": "src/sounds/mango-sundive-sad.mp3"
+        },
+        {
+          "name": "Emotional Piano",
+          "media_url": "src/sounds/emotional-piano-sad.mp3"
+        },
+        {
+          "name": "Dreams with you",
+          "media_url": "src/sounds/dreams-with-you-sad.mp3"
         }
       ]
     },
@@ -33,26 +41,6 @@
           "media_url": "https://example.com/peaceful-horizon.mp3"
         }
       ]
-    },
-    {
-      "mood": "Anxious",
-      "tracks": [
-        {
-          "name": "Calm Waves",
-          "media_url": "https://example.com/calm-waves.mp3"
-        },
-        {
-          "name": "Serenity Now",
-          "media_url": "https://example.com/serenity-now.mp3"
-        },
-        {
-          "name": "Peaceful Horizon",
-          "media_url": "https://example.com/peaceful-horizon.mp3"
-        }
-      ]
-    },
-    {
-      
     }
   ]
 }
