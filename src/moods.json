@@ -5,23 +5,23 @@
       "tracks": [
         {
           "name": "Calm night",
-          "media_url": "src/sounds/calm-night-sad.mp3"
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/54ba3e7900e3e4a99027feedc43b536c067de165/src/sounds/calm-night-sad.mp3"
         },
         {
           "name": "Lost ambient",
-          "media_url": "src/sounds/lost-ambient-sad.mp3"
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/54ba3e7900e3e4a99027feedc43b536c067de165/src/sounds/lost-ambient-sad.mp3"
         },
         {
           "name": "Mango Sundive",
-          "media_url": "src/sounds/mango-sundive-sad.mp3"
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/54ba3e7900e3e4a99027feedc43b536c067de165/src/sounds/mango-sundive-sad.mp3"
         },
         {
           "name": "Emotional Piano",
-          "media_url": "src/sounds/emotional-piano-sad.mp3"
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/54ba3e7900e3e4a99027feedc43b536c067de165/src/sounds/emotional-piano-sad.mp3"
         },
         {
           "name": "Dreams with you",
-          "media_url": "src/sounds/dreams-with-you-sad.mp3"
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/54ba3e7900e3e4a99027feedc43b536c067de165/src/sounds/dreams-with-you-sad.mp3"
         }
       ]
     },
