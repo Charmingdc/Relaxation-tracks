@@ -12,7 +12,7 @@ This repository is created to provide developers with free JSON file with media 
 2. **Generate Unique id for each tracks:**
    ```bash
    demo
-   ```
+   
 ## Author
 
 Adebayo Muis 
