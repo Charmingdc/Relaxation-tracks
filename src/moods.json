@@ -22,6 +22,10 @@
         {
           "name": "Dreams with you",
           "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/54ba3e7900e3e4a99027feedc43b536c067de165/src/sounds/sad/dreams-with-you-sad.mp3"
+        },
+        {
+          "name": "Romantic Spring 🌼",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/sad/romantic-spring-sad.mp3"
         }
       ]
     },
@@ -29,16 +33,57 @@
       "mood": "Anxious",
       "tracks": [
         {
-          "name": "Calm Waves",
-          "media_url": "https://example.com/calm-waves.mp3"
+          "name": "Blissful Serenity",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/anxious/blissful-serenity-anx.mp3"
         },
         {
-          "name": "Serenity Now",
-          "media_url": "https://example.com/serenity-now.mp3"
+          "name": "Blissful Tranquility",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/anxious/blissful-tranquility-anx.mp3"
         },
         {
-          "name": "Peaceful Horizon",
-          "media_url": "https://example.com/peaceful-horizon.mp3"
+          "name": "Peaceful Place",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/anxious/peaceful-place-anx.mp3"
+        },
+        {
+          "name": "Cosmic Serenity",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/anxious/cosmic-serenity-anx.mp3"
+        },
+        {
+          "name": "Soothing Sunlit",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/anxious/soothing-sunlit-serenity-anx.mp3"
+        },
+        {
+          "name": "Serenity",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/8ed585d4e085df2e5e8a88e718a169d593795fcc/src/sounds/anxious/serenity-anx.mp3"
+        }
+      ]
+    },
+    {
+      "mood": "Calm",
+      "tracks": [
+        {
+          "name": "",
+          "media_url": ""
+        },
+        {
+          "name": "",
+          "media_url": ""
+        },
+        {
+          "name": "",
+          "media_url": ""
+        },
+        {
+          "name": "",
+          "media_url": ""
+        },
+        {
+          "name": "",
+          "media_url": ""
+        },
+        {
+          "name": "",
+          "media_url": ""
         }
       ]
     }
