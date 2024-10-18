@@ -62,28 +62,28 @@
       "mood": "Stressed",
       "tracks": [
         {
-          "name": "",
-          "media_url": ""
+          "name": "Birds Forest",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/f2e1a8f19bf131de281810fa3525b06d029f95da/src/sounds/stressed/birds39-forest-stressed.mp3"
         },
         {
-          "name": "",
-          "media_url": ""
+          "name": "Blue",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/f2e1a8f19bf131de281810fa3525b06d029f95da/src/sounds/stressed/blue-stressed.mp3"
         },
         {
-          "name": "",
-          "media_url": ""
+          "name": "Deep Space Resonance",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/f2e1a8f19bf131de281810fa3525b06d029f95da/src/sounds/stressed/deep-space-resonance-stressed.mp3"
         },
         {
-          "name": "",
-          "media_url": ""
+          "name": "Rose",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/f2e1a8f19bf131de281810fa3525b06d029f95da/src/sounds/stressed/rose-stressed.mp3"
         },
         {
-          "name": "",
-          "media_url": ""
+          "name": "Inner Peace",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/f2e1a8f19bf131de281810fa3525b06d029f95da/src/sounds/stressed/inner-peace-stressed.mp3"
         },
         {
-          "name": "",
-          "media_url": ""
+          "name": "Deep Space",
+          "media_url": "https://github.com/Charmingdc/Relaxation-tracks/blob/f2e1a8f19bf131de281810fa3525b06d029f95da/src/sounds/stressed/deep-space-stressed.mp3"
         }
       ]
     }
