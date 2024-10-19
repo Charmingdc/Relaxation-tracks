@@ -16,8 +16,7 @@ This repository is created to provide developers with free JSON file with media 
    fetch('https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/moods.json')
    .then(response => {
      return response.json(); 
-   })
-  .then(data => {
+   }).then(data => {
      const musicTracks = data.moods;
      musicTracks.forEach((item) => {
        item.tracks.forEach(itm => {
@@ -25,8 +24,8 @@ This repository is created to provide developers with free JSON file with media 
        });
     
        console.log(item.tracks);
-     })
-  });
+     });
+   });
   ```
    
 ## Author
