@@ -38,6 +38,10 @@ This repository is created to provide developers with free JSON file with media 
 Here a random number is generated for each track, thus serving as their unique Id's.
 
 
+## Current stage 
+Still adding more mood categories and relaxation tracks 
+
+
 ## Author
 
 Adebayo Muis 
