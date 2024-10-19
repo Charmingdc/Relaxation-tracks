@@ -17,18 +17,25 @@ This repository is created to provide developers with free JSON file with media 
    .then(response => {
      return response.json(); 
    }).then(data => {
+     
      const musicTracks = data.moods;
+     
+     // lopping through all moods tracks
      musicTracks.forEach((item) => {
+       
+      // loop through all moods tracks properties
        item.tracks.forEach(itm => {
-         itm.id = 1;
+         const randomNum = Math.floor(Math.random() * 1000000); // generate a random number
+         
+         itm.id = randomNum; // set randomNum as each track's unique id
        });
-    
-       console.log(item.tracks);
      });
+     
+     console.log(data);
    });
    ```
 
-With this JavaScript code, the same id is given to all the tracks. You can create a function to generate random numbers then call the function in the line **itm.id = 1;**
+Here a random number is generated for each track, thus serving as their unique Id's.
 
 
 ## Author
