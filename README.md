@@ -44,6 +44,8 @@ Here a random number is generated for each track, thus serving as their unique I
 Still adding more mood categories and relaxation tracks 
 
 
-## Author
-
+## Developer
 Adebayo Muis 
+
+
+## Web developers community
