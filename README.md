@@ -26,8 +26,11 @@ This repository is created to provide developers with free JSON file with media 
        console.log(item.tracks);
      });
    });
-  ```
-   
+   ```
+
+With this JavaScript code, the same id is given to all the tracks. You can create a function to generate random numbers then call the function in the line **itm.id = 1;**
+
+
 ## Author
 
 Adebayo Muis 
