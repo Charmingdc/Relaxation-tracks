@@ -7,11 +7,28 @@ This repository is created to provide developers with free JSON file with media 
 
 1. **Fetch JSON file:**
    ```bash
+   
    https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/moods.json
-   ```
+ 
+  ```
 2. **Generate Unique id for each tracks:**
-   ```bash
-   demo
+   ```javascript
+   
+   fetch('https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/moods.json')
+   .then(response => {
+     return response.json(); 
+   })
+  .then(data => {
+     const musicTracks = data.moods;
+     musicTracks.forEach((item) => {
+       item.tracks.forEach(itm => {
+         itm.id = 1;
+       });
+    
+       console.log(item.tracks);
+     })
+  });
+  ```
    
 ## Author
 
