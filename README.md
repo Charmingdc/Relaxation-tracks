@@ -9,9 +9,8 @@ This repository is created to provide developers with free JSON file with media 
    ```bash
    
    https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/moods.json
- 
-  ```
-2. **Generate Unique id for each tracks:**
+   ```
+2. **Generate unique id for each track:** 
    ```javascript
    
    fetch('https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/moods.json')
