@@ -2,7 +2,7 @@
 
 This repository is created to provide developers with free JSON file with media url of different relaxation tracks for different categories to use in their projects.
 
-You might not be able to stream the tracks directly when viewing it on GitHub because GitHub don't support viewing large files for now, but it works perfectly with *HTML audio tag** and JavaScript **new Audio()**
+You might not be able to stream the tracks directly when viewing it on GitHub because GitHub don't support viewing large files for now, but it works perfectly with *HTML audio tag* and JavaScript *new Audio()*
 
 
 ### Getting started
