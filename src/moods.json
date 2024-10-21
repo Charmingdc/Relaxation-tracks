@@ -91,11 +91,28 @@
       "mood": "calm",
       "tracks": [
         {
-          "name": "",
-          "media_url": ""
+          "name": "Peaceful Cinematic",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/peaceful-cinematic-calm.mp3"
         },
         {
-          
+          "name": "Ambient Classical",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/ambient-classical-guitar-calm.mp3"
+        },
+        {
+          "name": "Ambient Piano",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/ambient-piano-calm.mp3"
+        },
+        {
+          "name": "Cinematic Ambient",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/cinematic-ambient-piano-calm.mp3"
+        },
+        {
+          "name": "Calm Relaxation",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/relaxing-music-calm.mp3"
+        },
+        {
+          "name": "Soft Focus",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/soft-focus-calm.mp3"
         }
       ]
     }
