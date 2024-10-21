@@ -115,6 +115,64 @@
           "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/calm/soft-focus-calm.mp3"
         }
       ]
+    },
+    {
+      "mood": "happy",
+      "tracks": [
+        {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        }
+      ]
+    },
+    {
+      "mood": "great",
+      "tracks": [
+        {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        },
+         {
+          "name": "",
+          "media_url": ""
+        }
+      ]
     }
   ]
 }
