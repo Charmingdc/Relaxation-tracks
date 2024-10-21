@@ -121,27 +121,27 @@
       "tracks": [
         {
           "name": "Cheer up",
-          "media_url": ""
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/happy/cheer-up-happy.mp3"
         },
          {
           "name": "Lucky",
-          "media_url": ""
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/happy/lucky-happy.mp3"
         },
          {
           "name": "Curious Kids",
-          "media_url": ""
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/happy/curious-kids-happy.mp3"
         },
          {
           "name": "Cheerful",
-          "media_url": ""
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/happy/cheerful-happy.mp3"
         },
          {
           "name": "Happy",
-          "media_url": ""
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/happy/happy-happy.mp3"
         },
          {
           "name": "Happy whistle",
-          "media_url": ""
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/happy/happy-whistle-happy.mp3"
         }
       ]
     },
