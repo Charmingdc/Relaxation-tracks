@@ -1,7 +1,7 @@
 {
   "moods": [
     {
-      "mood": "Sad",
+      "mood": "sad",
       "tracks": [
         {
           "name": "Calm night",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "mood": "Anxious",
+      "mood": "anxious",
       "tracks": [
         {
           "name": "Blissful Serenity",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "mood": "Stressed",
+      "mood": "stressed",
       "tracks": [
         {
           "name": "Birds Forest",
@@ -84,6 +84,18 @@
         {
           "name": "Deep Space",
           "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/stressed/deep-space-stressed.mp3"
+        }
+      ]
+    },
+    {
+      "mood": "calm",
+      "tracks": [
+        {
+          "name": "",
+          "media_url": ""
+        },
+        {
+          
         }
       ]
     }
