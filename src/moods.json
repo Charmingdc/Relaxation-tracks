@@ -146,31 +146,31 @@
       ]
     },
     {
-      "mood": "great",
+      "mood": "lonely",
       "tracks": [
         {
-          "name": "",
-          "media_url": ""
+          "name": "Corporate Inspiring",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/corporate-inspiring-lonely.mp3"
         },
          {
-          "name": "",
-          "media_url": ""
+          "name": "Emotional Inspiring",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/emotional-inspiring-lonely.mp3"
         },
          {
-          "name": "",
-          "media_url": ""
+          "name": "Softer Love",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/softer-love-lonely.mp3"
         },
          {
-          "name": "",
-          "media_url": ""
+          "name": "Feather in the wind",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/feather-in-the-wind-lonely.mp3"
         },
          {
-          "name": "",
-          "media_url": ""
+          "name": "Timeless Love",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/timeless-love-lonely.mp3"
         },
          {
-          "name": "",
-          "media_url": ""
+          "name": "Uplifting Life",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/uplifting-life-short-lonely.mp3"
         }
       ]
     }
