@@ -10,9 +10,6 @@ Below are the mood categories and keywords used to search for relaxation tracks 
 - Mood: Stressed 
   - Search Keywords: *Chill, Relaxing, Meditation, Deep Breathing, Zen, Inner Peace.*
   
-- Mood: Grateful 
-  - Search Keywords: *Gratitude, Peaceful, Joy, Contentment.*
-  
 - Mood: Happy 
   - Search Keywords: *Calm Joy, Blissful Peace, Soft Happiness, Relaxed Contentment.*
   
