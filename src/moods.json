@@ -173,6 +173,35 @@
           "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/lonely/uplifting-life-short-lonely.mp3"
         }
       ]
+    },
+    {
+      "mood": "distracted",
+      "tracks": [
+        {
+          "name": "A Quiet Time",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/distracted/a-quiet-time-distracted.mp3"
+        },
+        {
+          "name": "Chill Lofi",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/distracted/chill-lofi-distracted.mp3"
+        },
+        {
+          "name": "Little Break",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/distracted/little-break-distracted.mp3"
+        },
+        {
+          "name": "Study",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/distracted/study-music-distracted.mp3"
+        },
+        {
+          "name": "Myter",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/distracted/myter-distracted.mp3"
+        },
+        {
+          "name": "Study in a Minor",
+          "media_url": "https://raw.githubusercontent.com/Charmingdc/Relaxation-tracks/main/src/sounds/distracted/study-in-a-minor-distracted.mp3"
+        }
+      ]
     }
   ]
 }
